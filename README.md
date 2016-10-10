@@ -22,7 +22,7 @@ Falls Sie unterwegs Inspiration von anderen Teams benötigen oder sich sogar mit
 ## Ziel dieser Projekte
 Kurzfristiges Ziel jedes einzelnen Projektes ist die Teilnahme am Neue-Nähe-Hackathon vom 25.11. bis 27.11.2016 im Microsoft Office in Berlin.
 Langfristig wollen wir digitale Anwendungen und Angebote fördern, die für mehr Barrierefreiheit und ein selbstverständlicheres Zusammenleben von Menschen mit und ohne Behinderung sorgen. 
-## Link auf Hackathon Anmeldeseite
+## Link auf die offizielle Hackathon-Landingpage (und Anmeldung)
 [www.microsoft.com/germany/techwiese/events/hackathon/neue-naehe-der-hackathon-fuer-mehr-inklusion-und-teilhabe.aspx](https://www.microsoft.com/germany/techwiese/events/hackathon/neue-naehe-der-hackathon-fuer-mehr-inklusion-und-teilhabe.aspx)
 
 ## Link zu Aktion Mensch
