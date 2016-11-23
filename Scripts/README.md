@@ -12,4 +12,4 @@ FirstPersonController Script (auf FirstPersonController GO) reagiert auf die Bew
 
 Weitere Dokumentation im Code.
 
-Das Game ist unter folgendem Link zu finden: https://www.dropbox.com/sh/cxqtcsgz2atoe9s/AAAaOgwwfOWbKQRi4q7vfv3qa?dl=0
+Das Game ist unter folgendem Link zu finden: https://www.dropbox.com/scl/fi/7lcvffvrrur9wx52s6is6?oref=e&sm=1
