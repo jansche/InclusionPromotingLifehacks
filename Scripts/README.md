@@ -11,3 +11,5 @@ MapMovementToEffect Script (auf FirstPersonCharacter GO) steuert die Image Proce
 FirstPersonController Script (auf FirstPersonController GO) reagiert auf die Bewegung des Smartphones und steuert den Character.
 
 Weitere Dokumentation im Code.
+
+Das Game ist unter folgendem Link zu finden: https://www.dropbox.com/sh/cxqtcsgz2atoe9s/AAAaOgwwfOWbKQRi4q7vfv3qa?dl=0
